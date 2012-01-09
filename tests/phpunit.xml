@@ -1,0 +1,13 @@
+<phpunit bootstrap="./bootstrap.php" color="true">
+    <testsuite name="HiDef Test Suite">
+        <directory>./</directory>
+    </testsuite>
+    <filter>
+        <whitelist>
+            <directory suffix=".php">./</directory>
+            <exclude>
+                <directory suffix=".phtml">../application/</directory>
+            </exclude>
+        </whitelist>
+    </filter>
+</phpunit>
