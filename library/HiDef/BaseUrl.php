@@ -2,7 +2,7 @@
 /**
  * HiDef, Inc.
  *
- * Retrieve the current URL the web server is opperating under with provisions for command line accomidations
+ * Retrieve the current URL the web server is operating under with provisions for command line accommodations
  *
  * @category    Zend
  * @package     HiDef
