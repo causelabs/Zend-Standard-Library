@@ -1,6 +1,6 @@
 <?php
 
-class Zend_View_Helper_Truncate extends Zend_View_Helper_Abstract
+class HiDef_View_Helper_Truncate
 {
    public function truncate($string, $length = 100, $postfix = '...')
    {
