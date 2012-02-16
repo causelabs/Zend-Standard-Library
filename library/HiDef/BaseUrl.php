@@ -1,15 +1,24 @@
 <?php
 /**
- * HiDef, Inc.
+ * Retrieve the current URL that the web server is operating under
+ * with provision for command line accommodations.
  *
- * Retrieve the current URL the web server is operating under with provisions for command line accommodations
- *
- * @category    Zend
- * @package     HiDef
- * @author      HiDef Tech Team
- * @date        Saturday January 7, 2012
+ * @category	HiDef_ZendStandardLibrary
+ * @package		HiDef
+ * @copyright	Copyright (c) 2012 HiDef, Inc. (http://www.hidef.co)
+ * @author		Shane Stillwell <shane@hidef.co>
+ * @version		$Id:$
  */
-
+/**
+ * Retrieve the current URL that the web server is operating under
+ * with provision for command line accommodations.
+ *
+ * @category	HiDef_ZendStandardLibrary
+ * @package		HiDef
+ * @copyright	Copyright (c) 2012 HiDef, Inc. (http://www.hidef.co)
+ * @author		Shane Stillwell <shane@hidef.co>
+ * @version		$Id:$
+ */
 class HiDef_BaseUrl
 {
 
